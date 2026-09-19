@@ -118,12 +118,15 @@ A full-stack application for discovering, creating, and reviewing property listi
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatidar-dev&layout=compact&langs_count=10&card_width=350&hide_border=true&theme=tokyonight"
-  width="350"
-/>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariompatidar-dev&theme=tokyonight" alt="Languages across repositories"/>
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariompatidar-dev&theme=tokyonight" alt="Most committed language summary"/>
+</a>
 
 </div>
+
 ---
 
 ## 🏆 Achievements
