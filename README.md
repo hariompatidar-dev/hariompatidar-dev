@@ -71,7 +71,7 @@ Building practical, user-friendly web applications and learning by shipping real
 
 ## 🚀 Featured Project
 
-### [Wanderlust](https://github.com/hariompatidar-dev)
+### [Wanderlust](https://wanderlust-airbnb-clone-omega.vercel.app/listings)
 
 A full-stack Airbnb-inspired web application for discovering, creating, and reviewing property listings.
 
@@ -81,7 +81,7 @@ A full-stack Airbnb-inspired web application for discovering, creating, and revi
 - Live map integration
 - Built with JavaScript, Node.js, Express, MongoDB, and EJS
 
-> Add a live-demo URL and screenshots to this section once you have the exact public links ready.
+
 
 ---
 
