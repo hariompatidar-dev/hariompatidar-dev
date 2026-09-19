@@ -127,7 +127,7 @@ A full-stack application for discovering, creating, and reviewing property listi
 
 </div>
 
-<sub>Language cards are estimates based on public repository data. “Top languages” generally reflects code volume; the “most commit language” card is a separate summary and should not be interpreted as a precise count of commits per language.</sub>
+
 
 ---
 
