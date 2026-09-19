@@ -40,7 +40,7 @@
 
 I'm **Hariom Patidar**, a developer focused on building practical, user-friendly web applications and improving through consistent hands-on work.
 
-- 🔭 **Built:** [Wanderlust](https://github.com/hariompatidar-dev) — an Airbnb-inspired full-stack app with authentication, property listings, reviews, and live map integration.
+- 🔭 **Built:** [Wanderlust](https://wanderlust-airbnb-clone-omega.vercel.app/listings) — an Airbnb-inspired full-stack app with authentication, property listings, reviews, and live map integration.
 - 🌱 **Currently learning:** MERN stack development and Data Structures & Algorithms in Java.
 - 🧠 **Interested in:** Backend engineering, problem-solving, clean code, and useful product experiences.
 - 🤝 **Open to:** Collaborating on projects, learning with other developers, and contributing to meaningful work.
