@@ -70,7 +70,7 @@ I'm **Hariom Patidar**, a developer focused on building practical, user-friendly
 
 <div align="center">
 
-<a href="https://github.com/hariompatidar-dev">
+
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hariompatidar-dev&repo=Wanderlust&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Wanderlust repository card"/>
 </a>
 
@@ -88,7 +88,7 @@ A full-stack application for discovering, creating, and reviewing property listi
 | Maps | Live map integration |
 | Stack | JavaScript · Node.js · Express · MongoDB · EJS |
 
-**Project links:** [Repository](https://github.com/hariompatidar-dev/Wanderlust) · [Add live demo URL here]
+**Project links:** [Repository](https://github.com/hariompatidar-dev/Wanderlust) · 
 
 > `Wanderlust` -- https://wanderlust-airbnb-clone-omega.vercel.app/listings
 
@@ -98,10 +98,10 @@ A full-stack application for discovering, creating, and reviewing property listi
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=hariompatidar-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub overview: contributions, stars, and activity"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatidar-dev&layout=donut-vertical&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages by codebase size"/>
 </a>
 
@@ -109,7 +109,7 @@ A full-stack application for discovering, creating, and reviewing property listi
 
 <div align="center">
 
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariompatidar-dev&theme=tokyonight" width="98%" alt="GitHub profile summary and contribution overview"/>
 </a>
 
