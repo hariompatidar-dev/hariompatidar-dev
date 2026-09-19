@@ -70,10 +70,6 @@ I'm **Hariom Patidar**, a developer focused on building practical, user-friendly
 
 <div align="center">
 
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hariompatidar-dev&repo=Wanderlust&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Wanderlust repository card"/>
-</a>
-
 </div>
 
 ### Wanderlust — Airbnb-inspired web application
