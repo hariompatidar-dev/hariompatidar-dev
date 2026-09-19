@@ -90,40 +90,6 @@ A full-stack application for discovering, creating, and reviewing property listi
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hariompatidar-dev&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="GitHub overview: contributions, stars, and activity"/>
-</a>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatidar-dev&layout=donut-vertical&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages by codebase size"/>
-</a>
-
-</div>
-
-<div align="center">
-
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariompatidar-dev&theme=tokyonight" width="98%" alt="GitHub profile summary and contribution overview"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariompatidar-dev&theme=tokyonight" alt="GitHub summary statistics"/>
-</a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariompatidar-dev&theme=tokyonight&utcOffset=5.5" alt="Productive time summary"/>
-</a>
-
-</div>
-
----
-
 ## 🔥 Contribution Streak
 
 <div align="center">
