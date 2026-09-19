@@ -118,25 +118,12 @@ A full-stack application for discovering, creating, and reviewing property listi
 
 <div align="center">
 
-### Languages Across My Repositories
-
 <img
-  width="90%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariompatidar-dev&theme=tokyonight"
-  alt="Language distribution across repositories"
-/>
-
-### Most Used Languages
-
-<img
-  width="90%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatidar-dev&layout=compact&langs_count=10&hide_border=true&theme=tokyonight&card_width=600"
-  alt="Top programming languages by codebase size"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariompatidar-dev&layout=compact&langs_count=10&card_width=350&hide_border=true&theme=tokyonight"
+  width="350"
 />
 
 </div>
-
-
 ---
 
 ## 🏆 Achievements
